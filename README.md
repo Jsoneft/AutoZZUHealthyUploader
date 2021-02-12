@@ -19,6 +19,7 @@ ZZU  健康上报自动上报脚本
 - [x] 日志
 
 - [x] 多用户同时使用
+
 - [x] 可自行定制 二次开发
 
 ## Requirements
@@ -58,3 +59,7 @@ go run main.go
 ## License
 
 Mozilla Public License Version 2.0
+
+## Attention
+
+请保持，低调谨慎的态度使用脚本，本脚本隶属于Mozilla Public License，开发者免责。
