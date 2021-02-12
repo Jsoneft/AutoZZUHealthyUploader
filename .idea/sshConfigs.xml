@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="ddns.isaacchen.cn" id="98f8e88d-55a2-472d-a9e6-b29a8f106cf9" port="2201" nameFormat="DESCRIPTIVE" username="pi" />
-    </configs>
-  </component>
-</project>
